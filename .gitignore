@@ -1,1 +1,6 @@
 __pycache__
+venv
+organizer_config.json
+build
+dist
+new_directory
