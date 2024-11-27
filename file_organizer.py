@@ -6,7 +6,6 @@ import tkinter as tk
 from tkinter import filedialog, ttk
 from pathlib import Path
 
-
 class FileOrganizerApp:
     def __init__(self, root):
         self.root = root
